@@ -1,0 +1,32 @@
+#Hammer Time French Lang File (Translated by RaphaelGF11)
+
+#Hammer Names
+item.HammerWood.name=Marteau en Bois
+item.HammerStone.name=Marteau en Pierre
+item.HammerIron.name=Marteau en Fer
+item.HammerGold.name=Marteau en Or
+item.HammerDiamond.name=Marteau en Diamand
+
+#Excavator Names
+item.ExcavatorWood.name=Excavateur en Bois
+item.ExcavatorStone.name=Excavateur en Pierre
+item.ExcavatorIron.name=Excavateur en Fer
+item.ExcavatorGold.name=Excavateur en Or
+item.ExcavatorDiamond.name=Excavateur en Diamand
+
+#LumberAxe Names
+item.LumberAxeWood.name=Super Hache en Bois
+item.LumberAxeStone.name=Super Hache en Pierre
+item.LumberAxeIron.name=Super Hache en Fer
+item.LumberAxeGold.name=Super Hache en Or
+item.LumberAxeDiamond.name=Super Hache en Diamand
+
+#Sickle Names
+item.SickleWood.name=Faucille en Bois
+item.SickleStone.name=Faucille en Pierre
+item.SickleIron.name=Faucille en Fer
+item.SickleGold.name=Faucille en Or
+item.SickleDiamond.name=Faucille en Diamand
+
+#CreativeTab Names
+itemGroup.HammerTimeCreativeTab=Hammer Time!
